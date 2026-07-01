@@ -2,7 +2,7 @@
 
 import { useEffect, useRef } from "react";
 
-const WHATSAPP_NUMBER = "2349138473505";
+const WHATSAPP_NUMBER = "2349155826027";
 
 export default function SwapSection() {
   const sectionRef = useRef<HTMLDivElement>(null);
@@ -101,7 +101,7 @@ export default function SwapSection() {
                 Start Swap Process
               </a>
               <a
-                href="tel:+2349138473505"
+                href="tel:+2349155826027"
                 className="px-8 py-4 border-2 border-white/20 text-white rounded-full font-semibold flex items-center justify-center gap-2 hover:bg-white/10 transition-all"
               >
                 <i className="fas fa-phone"></i>

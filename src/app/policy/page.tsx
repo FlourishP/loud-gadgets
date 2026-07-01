@@ -210,7 +210,7 @@ export default function PolicyPage() {
               Contact us for clarification on any of our policies.
             </p>
             <a
-              href="https://wa.me/2349138473505?text=Hello%20Loud%20Gadgets%2C%20I%20have%20a%20question%20about%20your%20policies."
+              href="https://wa.me/2349155826027?text=Hello%20Loud%20Gadgets%2C%20I%20have%20a%20question%20about%20your%20policies."
               target="_blank"
               rel="noopener noreferrer"
               className="whatsapp-btn inline-flex items-center gap-2 px-8 py-4 rounded-full text-white font-semibold"

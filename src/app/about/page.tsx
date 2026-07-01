@@ -141,12 +141,12 @@ export default function AboutPage() {
                 <div>
                   <h3 className="font-semibold mb-1">Contact</h3>
                   <a
-                    href="https://wa.me/2349138473505"
+                    href="https://wa.me/2349155826027"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-premium-gold transition-colors"
                   >
-                    +234 913 847 3505
+                    +234 915 582 6027
                   </a>
                 </div>
               </div>

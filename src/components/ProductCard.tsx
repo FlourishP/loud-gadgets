@@ -14,7 +14,7 @@ interface ProductCardProps {
   product: Product;
 }
 
-const WHATSAPP_NUMBER = "2349138473505";
+const WHATSAPP_NUMBER = "2349155826027";
 
 function getWhatsAppLink(productName: string): string {
   const message = `Hello Loud Gadgets, I saw the ${productName} on your website and I'd like to place an order.`;
